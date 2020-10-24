@@ -12,9 +12,9 @@ Integrate Stripe - Payment Intents
   - Card: 4242424242424242, CVC: 123, DATE: 10/22, ZIP: 11233
 
 
-Reference
-https://stripe.com/docs/api/payment_intents?lang=node
-https://stripe.com/docs/development
-https://stripe.com/docs/testing
-https://stripe.com/docs/payments/integration-builder
-https://github.com/stripe/elements-examples
+**Reference**
+- https://stripe.com/docs/api/payment_intents?lang=node
+- https://stripe.com/docs/development
+- https://stripe.com/docs/testing
+- https://stripe.com/docs/payments/integration-builder
+- https://github.com/stripe/elements-examples
